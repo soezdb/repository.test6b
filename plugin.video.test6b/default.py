@@ -1,7 +1,7 @@
 # Import modules - this is from - Python Koding 6: Creating a dir structure
 # These import modules are required to run this addon
 # had this on week 4 epsicode etc - url = 'http://localhost/some_video.mkv'
-# revised on 2017-07-09 - try to use the xbmc.log(text,2) method etc
+# revised on 2017-07-09 - try to use the xbmc.log(text,2) method now etc
 
 import xbmc, xbmcgui, xbmcplugin
 import os, urllib, re
